@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="speak_prompt">Speak to JARVIS...</string>
+    <string name="ready_message">Ready to assist, sir.</string>
+    <string name="listening_message">Listening...</string>
+    <string name="processing_message">Processing...</string>
+    <string name="error_speech_not_supported">Speech recognition not supported</string>
+    <string name="error_connection">Connection error, sir.</string>
+    <string name="error_understanding">Sorry sir, I didn\'t understand that.</string>
+</resources>

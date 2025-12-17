@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.JARVIS" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#00D4FF</item>
+        <item name="colorPrimaryVariant">#0099CC</item>
+        <item name="colorOnPrimary">#000000</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#00D4FF</item>
+        <item name="colorSecondaryVariant">#0099CC</item>
+        <item name="colorOnSecondary">#000000</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#0A0A0A</item>
+        <!-- Background colors -->
+        <item name="android:windowBackground">#0A0A0A</item>
+        <item name="android:colorBackground">#0A0A0A</item>
+        <item name="colorSurface">#1A1A1A</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+    </style>
+</resources>
